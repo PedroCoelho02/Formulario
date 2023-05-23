@@ -1,0 +1,26 @@
+.carousel-item {
+    height: 500px;
+}
+
+.card-group>.card>img {
+    height: 120px;
+    margin-top: 30px;
+}
+
+.card-title {
+    color: red;
+}
+
+#tituloform {
+    text-align: center;
+}
+
+#formularioCad {
+    margin-top: 20px;
+}
+.btnsign{
+    background-color: red;
+    color: white;
+
+}
+
