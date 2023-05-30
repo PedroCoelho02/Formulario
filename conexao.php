@@ -1,6 +1,6 @@
 <?php 
 try{
-    $conectar = new PDO ("mysql:host=localhost:3306:dataname=pdo","root","");
+    $conectar = new PDO ("mysql:host=localhost;port:3306;dataname=pdo","root","");
 
     echo("conectado com sucesso");
 }catch(PDOException $e){
